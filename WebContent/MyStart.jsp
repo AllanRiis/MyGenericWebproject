@@ -1,3 +1,5 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
 <head>
@@ -5,15 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-
-Here we go again!
-
-Should put some links here
-
-I'll do it later 
-
-<a href="MyStart.jsp"> My link to new JSP </a>
-
-
+Here's some jsp
 </body>
 </html>
